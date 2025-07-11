@@ -1,0 +1,10 @@
+Package: a0.amethyst.ios
+Name: Amethyst
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Amethyst ESP Template iOS
+Maintainer: xSECx
+Author: AlexZero
+Section: Cheats
+Homepage: https://github.com/xS3Cx
